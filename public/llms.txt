@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-4f21017a.zappy5.app
+https://example.com
 מחפשים הובלת רהיטים אמינה עד קומה 15? נמרוד הרמות מציעים רכב להובלת רהיטים והובלות לכל גודל, כולל ספות, כורסאות ועבודות גבס. פתרון הובלה משתלם ולחץ עכשיו לקבלת הצעת מחיר משתלמת!
 
 ### שירותים
-https://-4f21017a.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי ההובלה שלנו: הובלת רהיטים קטנים וגדולים, התקנת קירות גבס מקצועית, העברת כורסאות וספות בקלות. צוות נמרוד הרמות מבטיח עבודה נקייה ומהירה – צרו קשר עוד היום!
 
 ### אודות
-https://-4f21017a.zappy5.app/about
+https://example.com/about
 נמרוד הרמות – לא סתם עוד חברת הובלות. אנחנו המומחים בהובלת רהיטים בכל גודל, עם ניסיון בהרמה לקומות גבוהות ופתרונות יצירתיים לכל אתגר. קראו על המסע שלנו ולמה אנחנו הבחירה המשתלמת שלכם.
 
 ### צור קשר
-https://-4f21017a.zappy5.app/contact
+https://example.com/contact
 מוכנים להעביר את הרהיטים שלכם בלי כאב ראש? צרו קשר עם נמרוד הרמות עכשיו! בין אם זה רכב להובלת רהיטים או העברה דחופה, אנחנו זמינים לתת מענה מהיר. חייגו או השאירו פרטים – השקט הנפשי שלכם מתחיל פה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4f21017a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4f21017a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4f21017a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-4f21017a.zappy5.app/contact
-- Endpoint: https://-4f21017a.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Moving & Furniture Transport
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4f21017a.zappy5.app/sitemap.xml
-- Robots: https://-4f21017a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4f21017a.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
