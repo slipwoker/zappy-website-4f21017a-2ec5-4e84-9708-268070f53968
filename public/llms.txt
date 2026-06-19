@@ -1,0 +1,85 @@
+# נמרוד הרמות — Generative Engine Optimization Map
+
+> Nimrod Haramoto is a furniture moving company specializing in transporting all sizes of furniture, from small to large items, with the capability to reach up to the 15th floor. The company also handles additional services such as installing drywall (gypsum walls), moving armchairs, sofas, and more, positioning itself as a comprehensive moving and installation solution.
+
+---
+
+## Pages
+
+### בית
+https://-4f21017a.zappy5.app
+מחפשים הובלת רהיטים אמינה עד קומה 15? נמרוד הרמות מציעים רכב להובלת רהיטים והובלות לכל גודל, כולל ספות, כורסאות ועבודות גבס. פתרון הובלה משתלם ולחץ עכשיו לקבלת הצעת מחיר משתלמת!
+
+### שירותים
+https://-4f21017a.zappy5.app/services
+גלו את מגוון שירותי ההובלה שלנו: הובלת רהיטים קטנים וגדולים, התקנת קירות גבס מקצועית, העברת כורסאות וספות בקלות. צוות נמרוד הרמות מבטיח עבודה נקייה ומהירה – צרו קשר עוד היום!
+
+### אודות
+https://-4f21017a.zappy5.app/about
+נמרוד הרמות – לא סתם עוד חברת הובלות. אנחנו המומחים בהובלת רהיטים בכל גודל, עם ניסיון בהרמה לקומות גבוהות ופתרונות יצירתיים לכל אתגר. קראו על המסע שלנו ולמה אנחנו הבחירה המשתלמת שלכם.
+
+### צור קשר
+https://-4f21017a.zappy5.app/contact
+מוכנים להעביר את הרהיטים שלכם בלי כאב ראש? צרו קשר עם נמרוד הרמות עכשיו! בין אם זה רכב להובלת רהיטים או העברה דחופה, אנחנו זמינים לתת מענה מהיר. חייגו או השאירו פרטים – השקט הנפשי שלכם מתחיל פה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4f21017a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4f21017a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4f21017a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-4f21017a.zappy5.app/contact
+- Endpoint: https://-4f21017a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נמרוד הרמות
+Nimrod Haramoto is a furniture moving company specializing in transporting all sizes of furniture, from small to large items, with the capability to reach up to the 15th floor. The company also handles additional services such as installing drywall (gypsum walls), moving armchairs, sofas, and more, positioning itself as a comprehensive moving and installation solution.
+
+## Services/Products
+- הובלת רהיטים קטנים עד גדולים
+- הובלה עד קומה 15
+- הרכבת קירות גבס
+- הובלת כורסאות
+- הובלת ספות
+
+## Target Audience
+- מקצוענים צעירים במעבר
+- משפחות במעבר לבית גדול יותר
+- מעברי משרדים לחברות
+
+## Industry
+Moving & Furniture Transport
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4f21017a.zappy5.app/sitemap.xml
+- Robots: https://-4f21017a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4f21017a.zappy5.app/llms-full.txt
